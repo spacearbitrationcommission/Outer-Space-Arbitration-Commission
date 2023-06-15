@@ -1,2 +1,1 @@
-# Corporate theme
-Corporate web page theme built with HTML5, CSS3 and JavaScript ES6.
+太空仲裁委员会（Outer Space Arbitration Committee）
